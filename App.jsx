@@ -1,8 +1,8 @@
-import { TabelaBancos } from './TabelaBancos';
-import { Nav } from './components/NavPagHome';
-import { Rodape } from './FooterPagHome';
-import { Cartao } from './components/card';
-
+import Table from './src/components/Table';
+import Card from './src/components/Card';
+import FooterPagHome from './src/components/FooterPagHome';
+import HeaderPagHome from './src/components/HeaderPagHome';
+import NavPagHome from './src/components/NavPagHome';
 
 
 
@@ -16,7 +16,7 @@ export function App() {
         <img class="imagem" src="https://www.nuinvest.com.br/hero_background-3.webp"  ></img>
       </div>
       
-      <TabelaBancos/>
+      <Table/>
       <div class="imagem">
         
       <img class="imagem" src="https://www.toroinvestimentos.com.br/assets-next/images/lp-parceiros-trader/n-profit-2x.webp"  ></img>
@@ -26,7 +26,7 @@ export function App() {
         
       <img class="imagem" display="flex" src="https://files.sunoresearch.com.br/p/uploads/2019/09/grandes-investidores.jpg"  ></img>
       </div>
-      <Rodape/>
+      <FooterPagHome/>
       
     </div>
     

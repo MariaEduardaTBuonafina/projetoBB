@@ -1,5 +1,5 @@
-import styles from "./Nav.module.css"
-export function Cartao(props){
+import '../assets/styles/nav.module.css'
+function Card(props){
     return (
         <div class="imagemcartao"
 >        <div class="card" >
@@ -13,6 +13,5 @@ export function Cartao(props){
         </div>
     </div>        
     )
-
-
 }
+export default Card

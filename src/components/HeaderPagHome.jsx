@@ -1,4 +1,4 @@
-export function Cabecalho(){
+function HeaderPagHome(){
 return (
     <header>
         <div className="cabeçalho">
@@ -10,7 +10,6 @@ return (
           </nav>
         </div>
     </header>
-    
-)
-
+      )
 }
+export default HeaderPagHome

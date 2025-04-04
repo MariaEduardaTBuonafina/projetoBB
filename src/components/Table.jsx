@@ -1,5 +1,4 @@
-
-export function TabelaBancos() {
+function Table() {
       return  (
 
 <div>
@@ -98,3 +97,4 @@ export function TabelaBancos() {
 </div>
 )
 }
+export default Table

@@ -1,5 +1,4 @@
-
-export function Rodape(){
+function FooterPagHome(){
 return (
     <footer >
         <ul >
@@ -10,3 +9,4 @@ return (
     </footer>
 )
 }
+export default FooterPagHome

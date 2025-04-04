@@ -1,5 +1,5 @@
-import styles from "./Nav.module.css"
-export function Nav(){
+import '../assets/styles/nav.module.css'
+function NavPagHome(){
 return (
     <header class="cabeçalho" >
       
@@ -20,5 +20,5 @@ return (
     </header>
     
 )
-
 }
+export default NavPagHome
