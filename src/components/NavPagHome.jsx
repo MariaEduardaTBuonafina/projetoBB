@@ -2,13 +2,11 @@ import '../assets/styles/nav.module.css'
 function NavPagHome(){
 return (
     <header class="cabeçalho" >
-      
-      {/* <nav class="navbar bg-primary" data-bs-theme="dark" > */}
-      <nav  class="menuprincipal">
+      <nav  class="navbar bg-primary" data-bs-theme="dark">
 
-        <div className={styles}>
+        <div className="navbar bg-primary" data-bs-theme="dark">
             
-          <div className={styles}>
+          <div className="navbar bg-primary" data-bs-theme="dark">
           <span className="tituloprincipal">Bem Vindo ao AcessInvest App</span>
           <nav>
           <p><a href="">Inicio</a></p>

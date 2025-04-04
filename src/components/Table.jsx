@@ -20,7 +20,7 @@ function Table() {
         
         <tbody>
 
-        <tr class="table-primary">
+        <tr className="table-primary">
             <td>Banco do Nordeste</td>
             <td>1º</td>
             <td>97</td>
@@ -35,7 +35,7 @@ function Table() {
             <td><a href="https://www.bancobmg.com.br/investimentos/"><img alt="link para o Banco BMG" src="https://www.bancobmg.com.br/lumis-theme/br/com/bmg/portal/theme/bmg-portal/img/logo-bmg.svg" ></img></a></td>
             </tr>
 
-            <tr class='table-primary'>
+            <tr className='table-primary'>
             <td>Caixa Economica Federal</td>
             <td>3º</td>
             <td>94</td>
@@ -49,7 +49,7 @@ function Table() {
             <td><a href="https://www.itau.com.br/investimentos"><img alt="link para o Banco Itaú" src="https://cdn.worldvectorlogo.com/logos/itau-4.svg" ></img></a></td>
             </tr>
 
-            <tr class="table-primary">
+            <tr className="table-primary">
             <td>Mercado Pago</td>
             <td>5º</td>
             <td>93</td>
@@ -63,7 +63,7 @@ function Table() {
             <td><a href="https://banco.bradesco/html/classic/portal-investimentos/index.shtm"><img alt="link para o Bradesco" src="https://banco.bradesco/assets/classic/img/portal-investimento/logo-bradesco-vermelho.png" ></img></a></td>
             </tr>
 
-            <tr class="table-primary">
+            <tr className="table-primary">
             <td>PicPay</td>
             <td>7º</td>
             <td>91</td>
@@ -77,7 +77,7 @@ function Table() {
             <td><a href="https://www.nubank.com.br/nu/investimentos"><img alt="link para o nubank" src="https://logodownload.org/wp-content/uploads/2019/08/nubank-logo-2.png" ></img></a></td>
             </tr>
 
-            <tr class="table-primary">
+            <tr className="table-primary">
             <td>Banco do Brasil</td>
             <td>9º</td>
             <td>82</td>
